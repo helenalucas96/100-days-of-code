@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
+I will be focusing on learning Javascript on here. 
 
 ## Contents
 
